@@ -1,0 +1,6 @@
+replicaCount: 1
+
+image:
+  repository: https://github.com/Tatsat12/node-hello-tatsat  
+  tag: latest
+  pullPolicy: IfNotPresent
